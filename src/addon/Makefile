@@ -22,6 +22,7 @@ PRGSX = \
 	$(BN)/ConvertACTtools \
 	$(BN)/SimAnalyzer \
 	$(BN)/SimRewriter \
+	$(BN)/SimBinaryConverter \
 	$(BN)/SimCombiner \
 	$(BN)/SimRandomCoincidence \
 	$(BN)/TraAnalyzer \
